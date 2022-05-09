@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8"/>
+	<title>Java</title>
+	</head>
+	<body>
+	
+	<form action="mailto: marinapinedavilla@gmail.com" method="post">
+
+<div style="text-align: center; color: red; font-size: x-large">
+Java Form
+</div>
+
+<fieldset><legend style="float: right">Overall grouping</legend>
+
+
+<p>Name:
+<input name="name" type="text" size="20" maxlength="20"/></p>
+
+
+E-mail address: <input name="email" type="text" size="20" maxlength="20" />
+
+<fieldset><legend style="float: right"> Position Played
+</legend>
